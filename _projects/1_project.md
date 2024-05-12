@@ -2,7 +2,7 @@
 layout: page
 title: Image processing on FPGA
 description: Implemented JPEG image compression algorithms on FPGA.
-img: assets/image_processing_on_fpga.png
+img: assets/img/image_processing_on_fpga.png
 importance: 1
 category: work
 related_publications: false
@@ -16,10 +16,10 @@ For code and other details visit [github](https://github.com/harshbhosale01/imag
 Following is the input uncomprssed image and output compressed image:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="" title="Input Image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Original-img.jpeg" title="Input Image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="70-compressed-img.png" title="Output Image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/70-compressed-img.png" title="Output Image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
