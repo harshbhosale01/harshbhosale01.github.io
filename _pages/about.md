@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: electronics geek   
+subtitle: jack of all trades  
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: HBprofilep.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mumbai, Maharashtra, India</p>
