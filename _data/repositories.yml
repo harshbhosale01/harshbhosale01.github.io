@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - harshbhosale01
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - harshbhosale01/image-processing-fpga
+  - harshbhosale01/CodeSpectrum
