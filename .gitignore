@@ -10,3 +10,6 @@ Gemfile.lock
 assets/libs/
 node_modules/
 vendor
+_pages\publications.md
+_pages\teaching.md
+_pages\profiles.md
